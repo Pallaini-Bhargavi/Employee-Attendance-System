@@ -112,11 +112,7 @@ cd frontend
 npm start
 ```
 
-Application runs at:
-
-```
-http://localhost:5173
-```
+Application runs at: http://localhost:5173
 
 ---
 
@@ -132,8 +128,10 @@ Password: manager123
 ### Employees
 
 ```
+
 amit@example.com / amit123 (Tech)
 john@example.com / john123 (HR)
+
 ```
 
 ### Sample Attendance
@@ -144,14 +142,11 @@ CheckOut: 6:00 PM
 Status: PRESENT
 ```
 
-
+```
 ## Screenshots
- Screenshots/Home Page
-
-* Employee Login
-* Employee Register
-* Employee Dashboard
-* Attendance History
-* Team Calendar
-* All Employees Attendance
-* Manager Dashboard
+ Screenshots/Home.png
+ Screenshots/EmpLogin.png
+ Screenshots/EmpRegister.png
+ Screenshots/EmpDashboard.png
+ Screenshots/Calendar.png
+ Screenshots/Manager.png
