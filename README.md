@@ -139,3 +139,11 @@ Status: PRESENT
 ![Calendar](Screenshots/Calender.png)
 ![All Attendance](Screenshots/EmpAttendance.png)
 ![Manager Dashboard](Screenshots/Manager.png)
+
+## Details
+```
+Name           : Pallaini Bhargavi
+College Name   : Srinivasa Ramanujan Institute of Technology,Anantapur
+Contact Number : 8309059250
+Email          : pallainibhargavi@gmail.com
+
