@@ -86,9 +86,11 @@ npm install
 Create `.env` in root:
 
 ```
-MONGO_URI=mongodb+srv://Bhargavi:Bhargavi03@attendancemanagement.w7vjy44.mongodb.net/attendanceDB?retryWrites=true&w=majority&appName=attendancemanagement
-JWT_SECRET=supersecretkey123
-PORT=5000
+PORT=
+MONGO_URI=
+JWT_SECRET=
+REACT_APP_API_URL=
+
 ---
 
 ## Run the Project
