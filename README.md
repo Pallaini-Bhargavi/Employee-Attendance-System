@@ -33,6 +33,7 @@ A full-stack Employee Attendance Management System supporting Employee and Manag
 /project
 │── backend/
 │── frontend/
+│── Screenshots/
 │── .env
 │── .env.example
 │── README.md
@@ -56,7 +57,7 @@ A full-stack Employee Attendance Management System supporting Employee and Manag
 
 ```bash
 git clone 
-cd attendance-management
+cd Employee-Attendance-System
 ```
 
 ---
@@ -143,11 +144,10 @@ CheckOut: 6:00 PM
 Status: PRESENT
 ```
 
----
 
 ## Screenshots
+ Screenshots/Home Page
 
-* Home Page
 * Employee Login
 * Employee Register
 * Employee Dashboard
@@ -155,5 +155,3 @@ Status: PRESENT
 * Team Calendar
 * All Employees Attendance
 * Manager Dashboard
-
----
