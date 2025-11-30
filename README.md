@@ -128,20 +128,15 @@ Password: manager123
 ### Employees
 
 ```
-
-amit@example.com / amit123 (Tech)
-john@example.com / john123 (HR)
-
-```
+Email: amit@example.com 
+Role: amit123 (Tech)
 
 ### Sample Attendance
 
-```
 CheckIn: 9:30 AM
 CheckOut: 6:00 PM
 Status: PRESENT
 ```
-
 ```
 ## Screenshots
  ![Home](Screenshots/Home.png)
