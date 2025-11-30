@@ -110,24 +110,18 @@ python manage.py runserver
 ```
 cd frontend
 npm start
-```
 
 Application runs at: http://localhost:5173
-
----
 
 ## Seed Data (Sample Users)
 
 ### Manager
 
-```
 Email: manager@example.com
 Password: manager123
-```
 
 ### Employees
 
-```
 Email: amit@example.com 
 Role: amit123 (Tech)
 
@@ -136,8 +130,7 @@ Role: amit123 (Tech)
 CheckIn: 9:30 AM
 CheckOut: 6:00 PM
 Status: PRESENT
-```
-```
+
 ## Screenshots
  ![Home](Screenshots/Home.png)
 ![Employee Login](Screenshots/EmpLogin.png)
