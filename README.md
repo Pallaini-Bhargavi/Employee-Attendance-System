@@ -144,9 +144,10 @@ Status: PRESENT
 
 ```
 ## Screenshots
- Screenshots/Home.png
- Screenshots/EmpLogin.png
- Screenshots/EmpRegister.png
- Screenshots/EmpDashboard.png
- Screenshots/Calendar.png
- Screenshots/Manager.png
+ ![Home](Screenshots/Home.png)
+![Employee Login](Screenshots/EmpLogin.png)
+![Register](Screenshots/EmpRegister.png)
+![Dashboard](Screenshots/EmpDashboard.png)
+![Calendar](Screenshots/Calender.png)
+![All Attendance](Screenshots/EmpAttendance.png)
+![Manager Dashboard](Screenshots/Manager.png)
